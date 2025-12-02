@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "720256436489",
+    "firebase_url": "https://tvvideoapp-ad745-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tvvideoapp-ad745",
+    "storage_bucket": "tvvideoapp-ad745.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720256436489:android:60b8c0b4d71b3d18402bd8",
+        "android_client_info": {
+          "package_name": "com.example.videocast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NtLfZTd1gO-5iEZ4DPEq_PI-doBELJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
